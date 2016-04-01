@@ -1,2 +1,6 @@
 # criu_test
-docker_live_migration
+
+tiny demo to test docker live migration with CRIU between two nodes.
+
+CRIU:
+https://criu.org/Main_Page
